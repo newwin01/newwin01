@@ -79,4 +79,5 @@ Joyful coding! <br><br>
 <hr>
 
 <p><strong>Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much</strong> – <em>Luke 16:10</em></p>
+<p><strong>So whether you eat or drink or whatever you do, do it all for the glory of God</strong> – <em>1 Corinthians 10:31</em></p>
 

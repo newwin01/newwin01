@@ -76,6 +76,17 @@ Joyful coding! <br><br>
   <li><strong>2021.09 -  Army Achievement Medal, 19th Expeditionary Sustainment Command </strong> </li>
 </ul>
 
+<h3 id="Projects">Projects</h3>
+
+<ul>
+  <li>2022.12 ~ 2024.06 - <a herf="https://github.com/ISEL-HGU/SPI_3.0"> Similar Patch Identifier for Automated Program Repair </a> <br> </li>
+  <li>2024.06 - <a href="https://github.com/newwin01/Micro_Team"> Wireless Gamepad using LED Matrix and nRF52840 Development Kit </a> <br> </li>
+  <li>2024.03 ~ 2024.06 <a href="https://github.com/2024-SE-Project"> Handong Team Meeting Archiving and Exchange Web Platform </a> <br></li>
+  <li>2024.01 - <a href="https://github.com/newwin01/FAT32_Analysis"> Advanced programming practice with low-level file system structural analysis (with GMD Soft) </a> <br> </li>
+  <li> 2023.07 - <a href="https://github.com/newwin01/OS_30days"> Making Operating Systems in 30 Days </a> <br></li>
+</ul>
+
+
 <hr>
 
 <p><strong>Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much</strong> – <em>Luke 16:10</em></p>

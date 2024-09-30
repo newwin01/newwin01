@@ -79,7 +79,7 @@ Joyful coding! <br><br>
 <h3 id="Projects">Projects</h3>
 
 <ul>
-  <li>2022.12 ~ 2024.06 - <a herf="https://github.com/ISEL-HGU/SPI_3.0"> Similar Patch Identifier for Automated Program Repair </a> <br> </li>
+  <li>2022.12 ~ 2024.06 - <a href="https://github.com/ISEL-HGU/SPI_3.0"> Similar Patch Identifier for Automated Program Repair </a> <br> </li>
   <li>2024.06 - <a href="https://github.com/newwin01/Micro_Team"> Wireless Gamepad using LED Matrix and nRF52840 Development Kit </a> <br> </li>
   <li>2024.03 ~ 2024.06 <a href="https://github.com/2024-SE-Project"> Handong Team Meeting Archiving and Exchange Web Platform </a> <br></li>
   <li>2024.01 - <a href="https://github.com/newwin01/FAT32_Analysis"> Advanced programming practice with low-level file system structural analysis (with GMD Soft) </a> <br> </li>

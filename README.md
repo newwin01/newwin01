@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Hello! I am a student of Handong Global University.
 
 I am studying at the Department of Computer Science and Electrical Engineering. <br>
-My main interests are AI4SE and SE4AI, especially on Automatic Program Repair field.
+My main interest is Software Engineering.
 <br> 
 <br> 
 Joyful coding! <br><br>

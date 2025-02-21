@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Hello! My name is Jang Sechang!  
+## Hello! My name is Sechang Jang!  
 [[CV]](assets/CV_JSC.pdf)  
 
 I am a Master's student at the Korea Advanced Institute of Science and Technology (KAIST).  

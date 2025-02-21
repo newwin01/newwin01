@@ -40,7 +40,7 @@ Joyful coding! 🚀
 ---
 
 ### 📄 Publications  
-- **Seongbin Kim,** <u>**Sechang Jang**</u>, Jindae Kim, and Jaechang Nam,  
+- Seongbin Kim, <u>**Sechang Jang**</u>, Jindae Kim, and Jaechang Nam,  
   **"EnCus: Customizing Search Space for Automated Program Repair"**,  
   *Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025, Short Papers, Vision and Emerging Results)*  
   [Preprint](assets/ICST_2025_EnCus.pdf)  

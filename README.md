@@ -35,7 +35,7 @@ Joyful coding! 🚀
 
 ### 📚 Education  
 - **2025 ~ Present** – Master’s Student at the [School of Computing](https://cs.kaist.ac.kr/), [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/)  
-- **2019 ~ 2025** – Bachelor’s Degree in [Artificial Intelligence・Computer Science and Engineering](https://csee.handong.edu/) (Summa Cum Laude), [Handong Global University](https://www.handong.edu/)  
+- **2019 ~ 2025** – Bachelor’s Degree in [Artificial Intelligence・Computer Science and Engineering](https://csee.handong.edu/), Summa Cum Laude, [Handong Global University](https://www.handong.edu/)  
 
 ---
 
@@ -58,24 +58,34 @@ Joyful coding! 🚀
 ---
 
 ### ⏳ Timeline  
-- **2024.09 ~ 2024.12** – Teaching Assistant (TA) for *Programming Language Theory* (English Section)  
+
 - **2024.06** – Presented *[SPI: Similar Patch Identifier for Automated Program Repair](assets/KCC_2024_SPI_Presentation.pdf)* at [KCC 2024](https://kcc2024.kiise.or.kr/Proceedings/Home.asp), Jeju  
-- **2024.03 ~ 2024.06** – TA for *Data Structures* (Korean Section, Block Plan)  
-- **2024.03 ~ 2024.06** – TA for *Java Programming* (Korean Section, Block Plan)  
-- **2023.09 ~ 2023.12** – TA for *Java Programming* (Korean Section)  
-- **2023.03 ~ 2023.06** – TA for *Java Programming* (English Section)  
 - **2022.12 ~ 2024.12** – Undergraduate Research Intern at [ISEL](https://isel.handong.edu/)  
-- **2020.03 ~ 2021.09** – Human Resource Specialist, 142nd Military Policy Company  
+- **2020.03 ~ 2021.09** – Human Resource Specialist, 142nd Military Policy Company (KATUSA)
 
 ---
 
-### 🏆 Awards  
+### 👩🏻‍🏫 Teaching Experiences
+
+- Fall 2024 – Teaching Assistant for *Programming Language Theory* (English Section) in HGU
+- Spring 2024 – Teaching Assistant for *Data Structures* (Korean Section, Block Plan) in HGU
+- Spring 2024 – Teaching Assistant for *Java Programming* (Korean Section, Block Plan) in HGU
+- Fall 2023 – Teaching Assistant for *Java Programming* (Korean Section) in HGU
+- Spring 2023 – Teaching Assistant for *Java Programming* (English Section) in HGU
+---
+
+### 🏆 Awards 
 - **2024.06** – Best Paper Award, *Korea Computer Congress (KCC) 2024*  
 - **2024.06** – Top Prize, *TOPCIT Regular Evaluation*  
-- **2023.03 - 2024.12** – National Science & Technology Scholarship  
 - **Spring 2023, Fall 2023** – *Excellent TA Award*  
-- **Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024** – *Academic Excellence Scholarship*  
 - **2021.09** – Army Achievement Medal, *19th Expeditionary Sustainment Command*  
+
+---
+
+### 🎓 Scholarships
+
+- **2023.03 - 2024.12** – National Science & Technology Scholarship  
+- **Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024** – *Academic Excellence Scholarship* 
 
 ---
 

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ## Hello! My name is Sechang Jang!  
-[[CV]](assets/CV_JSC.pdf)  
+[[cv]](https://newwin01.github.io/assets/CV_JSC.pdf)
 
 I am a Master's student at the Korea Advanced Institute of Science and Technology (KAIST).  
 I am currently studying at the School of Computing.  

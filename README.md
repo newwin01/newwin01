@@ -80,7 +80,7 @@ Joyful coding! 🚀
 ### 🎓 Scholarships
 
 - **2023.03 - 2024.12** – National Science & Technology Scholarship  
-- **Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024** – *Academic Excellence Scholarship* 
+- **Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024** – *Academic Excellence Scholarship* in HGU
 
 ---
 

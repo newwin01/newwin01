@@ -44,7 +44,7 @@ Joyful coding! 🚀
   [Preprint](assets/ICST_2025_EnCus.pdf)  
 
 - <u>**Sechang Jang**</u>, Seongbin Kim, Junhyeok Choi, Jindae Kim, and Jaechang Nam, **"SPI: Similar Patch Identifier for Automated Program Repair"**, 
-  *Journal of KIISE: Software and Application* – *Extended version of the KCC 2024 paper*  
+  *Journal of KIISE: Software and Application* – *The extension of the KCC 2024 paper*  
   [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12086914)  
 
 - <u>**Sechang Jang**</u>, Junhyeok Choi, Seongbin Kim, Jindae Kim, and Jaechang Nam, **"SPI: Similar Patch Identifier for Automated Program Repair"**, *Korea Computer Congress (KCC) 2024*  
